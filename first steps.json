@@ -1,0 +1,11 @@
+{
+    "schema_version" : "2.0",
+    "packages" : [
+        {
+            "name" : "First Steps",
+            "author": "Stephan Ahlf",
+            "details" : "https://github.com/s-a/examples.try.js",
+            "labels" : [ "testing" ]
+        }
+    ]
+}
