@@ -4,7 +4,8 @@
         {
             "name" : "First Steps",
             "author": "Stephan Ahlf",
-            "details" : "https://github.com/s-a/examples.try.js/master/first%20steps/",
+            "environment" : "https://github.com/s-a/examples.try.js/master/first%20steps/basic-environment.json",
+            "programm" : null,
             "labels" : [ "testing" ]
         }
     ]
