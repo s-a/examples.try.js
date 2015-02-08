@@ -4,7 +4,7 @@ describe("Mission impossible", function() {
       robot.sensor.atHome().should.be.true;
     });
     it("should not use all energy", function() {
-      robot.sensor.sensor.energy.should.be.above(10);
+      robot.sensor.energy.should.be.above(10);
     });
   });
 });
