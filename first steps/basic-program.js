@@ -19,5 +19,6 @@ this
   .do("run", 6)
   .do("turn", "left")
   .do("run", 4)
+  .do("charge")
   .do("shutdown")
   .start();
