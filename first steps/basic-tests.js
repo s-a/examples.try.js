@@ -3,8 +3,8 @@ describe("Mission impossible", function() {
     it("should be in the home box", function() {
       robot.sensor.atHome().should.be.true;
     });
-    it("should not use all energy", function() {
-      robot.sensor.energy().should.be.above(10);
+    it("should be charged after shutdown", function() {
+      robot.sensor.energyLevel().should.be.equal(100);
     });
   });
 });
