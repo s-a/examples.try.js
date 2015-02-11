@@ -1,0 +1,24 @@
+{
+    "robot": {
+        "position": {
+            "x": 0,
+            "z": 0
+        },
+        "energy": {
+            "current": 8000,
+            "max": 8000
+        },
+        "capacity": {
+            "current": 0,
+            "max": 200
+        }
+    },
+    "homeBox": {
+        "position": {
+            "x": -120,
+            "z": -120
+        }
+    },
+    "walls": [],
+    "flowers": []
+}
