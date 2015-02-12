@@ -1,0 +1,46 @@
+{
+    "robot": {
+        "position": {
+            "x": 0,
+            "z": 0
+        },
+        "energy": {
+            "current": 80,
+            "max": 80
+        },
+        "capacity": {
+            "current": 0,
+            "max": 0
+        }
+    },
+    "homeBox": {
+        "position": {
+            "x": 0,
+            "z": 0
+        }
+    },
+    "walls": [{
+        "position": {
+            "x": 0,
+            "y": 500,
+            "z": 0
+        },
+        "scale": {
+            "x": 100,
+            "y": 1000,
+            "z": 100
+        }
+    }, {
+        "position": {
+            "x": 0,
+            "y": 320,
+            "z": 80
+        },
+        "scale": {
+            "x": 120,
+            "y": 640,
+            "z": 220
+        }
+    }],
+    "flowers": []
+}
