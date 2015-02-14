@@ -1,0 +1,48 @@
+{
+    "robot": {
+        "position": {
+            "x": 0,
+            "z": 0
+        },
+        "energy": {
+            "current": 200,
+            "max": 200
+        },
+        "fuel": {
+            "current": 0,
+            "max": 65
+        },
+        "capacity": {
+            "current": 0,
+            "max": 0
+        }
+    },
+    "homeBox": {
+        "position": {
+            "x": 200,
+            "y": 180,
+            "z": -20
+        }
+    },
+    "walls": [{
+        "position": {
+            "x": 200,
+            "y": 80,
+            "z": -20
+        },
+        "scale": {
+            "x": 100,
+            "y": 160,
+            "z": 100
+        }
+    }],
+    "stations": [{
+        "position": {
+            "x": 0,
+            "y": 20,
+            "z": 80
+        },
+        "type": "fuel"
+    }],
+    "flowers": []
+}
