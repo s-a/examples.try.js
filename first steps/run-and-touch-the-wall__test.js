@@ -1,4 +1,4 @@
-describe("Save the flowers", function() {
+describe("Touch the wall", function() {
   describe("Robot mission solved", function() {
     it("should touch the wall instead run against it", function() {
       robot.sensor.canMove("forward").should.be.false;
