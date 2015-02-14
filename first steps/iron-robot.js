@@ -5,10 +5,11 @@ this
   .do("run", 21)
   .do("turn", "left")
   .do("run", {
-  		"direction":"up",
-  		"count":40,
-	})
+      "direction":"up",
+      "count":40,
+  })
   .do("run", 10)
   .do("engineOff")
+  .do("charge")
   .do("shutdown")
   .start();
