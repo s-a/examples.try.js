@@ -1,0 +1,78 @@
+{
+    "robot": {
+        "position": {
+            "x": 0,
+            "z": 0
+        },
+        "energy": {
+            "current": 300,
+            "max": 300
+        },
+        "fuel": {
+            "current": 0,
+            "max": 0
+        },
+        "capacity": {
+            "current": 0,
+            "max": 0
+        }
+    },
+    "homeBox": {
+        "position": {
+            "x": 4,
+            "y": 25.1,
+            "z": 409
+        }
+    },
+    "walls": [{
+        "position": {
+            "x": 0,
+            "y": 25,
+            "z": 240
+        },
+        "scale": {
+            "x": 80,
+            "y": 50,
+            "z": 70.5
+        },
+        "movable": true
+    }, {
+        "position": {
+            "x": 0,
+            "y": 25,
+            "z": 530
+        },
+        "scale": {
+            "x": 100,
+            "y": 50,
+            "z": 5
+        },
+        "movable": false
+    }, {
+        "position": {
+            "x": -50,
+            "y": 25,
+            "z": 360
+        },
+        "scale": {
+            "x": 10,
+            "y": 50,
+            "z": 340
+        },
+        "movable": false
+    }, {
+        "position": {
+            "x": 50,
+            "y": 25,
+            "z": 360
+        },
+        "scale": {
+            "x": 10,
+            "y": 50,
+            "z": 340
+        },
+        "movable": false
+    }],
+    "stations": [],
+    "flowers": []
+}
