@@ -35,7 +35,7 @@ var unloadCommandStackLoop = function(repeats){
     }
 }
  
-unloadCommandStackLoop(2);
+unloadCommandStackLoop(1);
 
 self
   .do("shutdown")
